@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import HomePage from './components/HomePage/HomePage';
 import PlaceholderPage from './components/PlaceholderPage/PlaceholderPage';
 
+
+
 function App() {
   return (
     <Router>
