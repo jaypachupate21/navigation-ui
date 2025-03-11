@@ -43,6 +43,13 @@ This project provides a web-based navigation UI for accessing various applicatio
    npm start
    ```
 
+## Screenshots
+
+### 1. Home Page:
+   
+   
+   ![screenshot](public/img1.png)
+
 ## Usage
 - Open the browser and go to `http://localhost:3000`.
 - Click on any module to access its features.
